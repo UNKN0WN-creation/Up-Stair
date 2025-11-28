@@ -1,2 +1,9 @@
 *{margin:0;
   padding:0;}
+
+@media(max-width:768px){body{font-size:1rem;
+  padding:0.5rem;}}
+
+body{text-align:center;}
+
+.headline-img{width:100%;}

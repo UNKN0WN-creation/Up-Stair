@@ -7,9 +7,25 @@
 body{text-align:center;}
 
 .headline-img{width:100%;}
+
 .beginners-guide-img{width:35%;
 display:flex;
 margin-left:20px;
   margin-top:20px;
 border-radius:10%;
-box-shadow:0 15px 10px rgba(0,0,0,0.4);}
+box-shadow:0 15px 10px rgba(0,0,0,0.44);}
+
+.news-and-moves{width:80%;
+display:flex;
+margin-left:10%;
+margin-top:20%;
+border-radius:20%;
+box-shadow:0 15px 10px
+rgba(0,0,0,0.45);}
+
+.blog-1{width:95%;
+display:flex;
+  margin-left:3%;
+  margin-top:8%;
+  border-radius:0 15px 10px;
+  box-shadow:0 15px 10px rgba(0,0,0,0.44);}
